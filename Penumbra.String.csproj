@@ -21,6 +21,7 @@
         <RepositoryUrl>https://github.com/Ottermandias/Penumbra.String</RepositoryUrl>
         <Description>Auxiliary functions for dealing with owned or unowned byte strings when working with Final Fantasy XIV.</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <TargetFramework>net9.0</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
