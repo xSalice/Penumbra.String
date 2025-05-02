@@ -24,6 +24,10 @@
         <TargetFramework>net9.0</TargetFramework>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <PlatformTarget>AnyCPU</PlatformTarget>
+    </PropertyGroup>
+
     <ItemGroup>
         <None Include="README.md" Pack="true" PackagePath="\"/>
     </ItemGroup>
